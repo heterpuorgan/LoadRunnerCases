@@ -1,0 +1,11 @@
+开始自动日志消息堆栈 – 迭代 2。	[MsgId: MMSG-10545]
+通知: 事务 "Transaction 1" 已启动。	[MsgId: MMSG-16999]
+t=00055602ms: 步骤 1: 导航到 "https://dongxiaowang.cn/" 已启动    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00086545ms: 步骤 1: 导航到 https://dongxiaowang.cn/ 已使用结束事件“已加载文档”成功完成    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00087048ms: 步骤 2: 单击 主页 链接 已启动    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00122291ms: 步骤 2: 单击 主页 链接 已使用结束事件“步骤网络已完成”成功完成    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00122794ms: 步骤 3: 单击 RGB颜色转换 链接 已启动    [MsgId: MMSG-205180]	[MsgId: MMSG-205180]
+t=00142977ms: Error -205177: 步骤 3: 单击 RGB颜色转换 链接 失败 - 找不到目标对象。 标识方法: 自动       Snapshot Info [MSH 2 0]    [MsgId: MERR-205177]	[MsgId: MERR-205177]
+结束自动日志消息堆栈。	[MsgId: MMSG-10544]
+
+

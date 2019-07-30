@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Documents\VuGen\Scripts\TruClient2
+-ID:\loadrunner\include
+-ec:\users\administrator\documents\vugen\scripts\truclient2\\logfile.log
+c:\users\administrator\documents\vugen\scripts\truclient2\\combined_TruClient2.c
+c:\users\administrator\documents\vugen\scripts\truclient2\\pre_cci.c

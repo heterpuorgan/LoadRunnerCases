@@ -1,0 +1,5 @@
+<truLibrary engineVersion="12.60.1053.0" timestamp="Tue Jul 30 2019 16:53:32 GMT+0800 (中国标准时间)">
+<step type="library" stepId="step:{7e84ed13-7779-6f32-5300-d90c95aaecc4}" action="as" level="43" arguments="{}" snapshotId="psaho"><step type="function" stepId="step:{d400a615-7671-7ea5-56a3-f32402deb515}" action="" level="1" arguments="{}" snapshotId="eqvapmz" index="1" argsSchema="{}"><step type="block" stepId="step:{22141f01-53d4-195f-6f60-d4cc1413303b}" action="internal" level="43" arguments="{}" snapshotId="jftacxoo"/></step></step>
+<testObjects/>
+<transactions/>
+</truLibrary>
